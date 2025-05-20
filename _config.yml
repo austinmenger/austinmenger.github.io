@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Austin Menger, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Founder & CEO | Bridge Mental, Inc.<br>Founder & Principal Scientist | Menger Analytics"
+  location         : "New York City, NY"
+  employer         : "Bridge Mental, Inc."
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "austin.menger@gmail.com" 
 
   # Academic websites
   academia         : # URL
