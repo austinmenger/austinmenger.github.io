@@ -31,12 +31,19 @@ author:
   uri              : # URL
   email            : "austin.menger@gmail.com" 
 
+  # Changing the Ordering
+  googlescholar    : "https://scholar.google.com/citations?user=YVJ0olgAAAAJ&hl=en&oi=ao"
+  orcid            : "https://orcid.org/0000-0001-8811-5758"
+  github           : "austinmenger"
+  linkedin         : austin-menger-phd-86805961
+  goodreads        : user/show/90069365-austin-menger
+  
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=YVJ0olgAAAAJ&hl=en&oi=ao"
+  googlescholar    : #"https://scholar.google.com/citations?user=YVJ0olgAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-8811-5758"
+  orcid            : #"https://orcid.org/0000-0001-8811-5758"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -46,7 +53,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "austinmenger"
+  github           : #"austinmenger"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -55,12 +62,12 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : user/show/90069365-austin-menger
+  goodreads        : #user/show/90069365-austin-menger
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : austin-menger-phd-86805961
+  linkedin         : #austin-menger-phd-86805961
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
