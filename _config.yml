@@ -22,7 +22,7 @@ repository               : "austinmenger/austinmenger.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/austin_headshot.jpg"
+  avatar           : "austin_headshot.jpg"
   name             : "Austin Menger, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Founder & CEO | Bridge Mental, Inc.<br>Principal Scientist | Menger Analytics"
