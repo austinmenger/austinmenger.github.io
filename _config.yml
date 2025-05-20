@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "austin headshot.jpg"
   name             : "Austin Menger, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Founder & CEO | Bridge Mental, Inc.<br>Founder & Principal Scientist | Menger Analytics"
