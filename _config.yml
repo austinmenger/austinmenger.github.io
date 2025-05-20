@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Austin Menger / Site Title"
+title                    : "Austin Menger, Ph.D."
 title_separator          : "-"
 name                     : &name "Austin Menger, Ph.D."
 description              : &description "personal description"
