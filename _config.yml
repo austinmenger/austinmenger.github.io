@@ -89,8 +89,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Peer-reviewed Publications'    
-  conferences:
-    title: 'Conference Papers'
+  scholarly:
+    title: 'Doctoral Dissertation & Master Thesis Contributions'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
