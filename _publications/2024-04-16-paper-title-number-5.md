@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 5"
 collection: publications
-category: scholarly
+category: nonpeer
 permalink: /publication/2024-04-16-paper-title-number-5
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-04-16
