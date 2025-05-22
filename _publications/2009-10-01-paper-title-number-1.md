@@ -9,6 +9,6 @@ venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Abu Khait, A., <strong> Menger, A.</strong>, Al-Hammouri, M., ALhamdan, A., Issa, E., Rayapureddy*, H., Hamaideh, S. (2025). The relationship between insomnia and depressive symtpoms in a sample of patients with schizophrenia: do psychotic symptoms play a mediating role?. <i>Journal of Psychiatric and Mental Health Nursing</i>. Advance online publication. https://doi.org/10.1111/jpm.13175'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(2).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
