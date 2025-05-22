@@ -3,10 +3,10 @@ title: "The relationship between insomnia and depressive symtpoms in a sample of
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: # 'Journal 1'
-slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Abu Khait, A., <strong> Menger, A.</strong>, Al-Hammouri, M., ALhamdan, A., Issa, E., Rayapureddy*, H., Hamaideh, S. (2025). The relationship between insomnia and depressive symtpoms in a sample of patients with schizophrenia: do psychotic symptoms play a mediating role?. <i>Journal of Psychiatric and Mental Health Nursing</i>. Advance online publication. https://doi.org/10.1111/jpm.13175'
