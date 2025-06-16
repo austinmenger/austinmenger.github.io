@@ -1,1 +1,12 @@
+---
+title: "A flexible longitudinal study model for count data"
+collection: talks
+type: "Invited Talk"
+permalink: /talks/2020-02-24-UCONNstudent2020-talk
+venue: "Department of Statistics Student Lecture Series, University of Connecticut"
+date: 2020-02-24
+location: "Storrs, CT, USA"
+---
+
+<!-- This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field. -->
 
