@@ -19,7 +19,7 @@ author_profile: true
   <td>Status</td>
  </tr>
  <tr>
-  <td>Textbook</td>
+  <td>Textbook</td> 
   <td><b>Menger, A.</b></td>
   <td>Likelihood-based Techniques for Psychological Data</td>
   <td>Currently Drafting Proposal for Springer</td>
