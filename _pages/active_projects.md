@@ -105,15 +105,33 @@ author_profile: true
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abu Khait, A., <b>Menger, A.</b>, Marah Kamal</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Kamal, M.</td>
   <td>Feasibility, Acceptability, & Preliminary Effectiveness of Reminiscence Intervention Among Patients with Schizophrenia: A Mixed Methods Study</td>
   <td>Awaiting IRB Approval</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Dwaikat, T., Natarajan*, A., </td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Dwaikat, T., Natarajan*, A. </td>
   <td>Validation and assessment of differential item functioning of the Arabic version of the automatic thoughts questionnaire in a sample of patients with schizophrenia</td>
   <td>Publication Under Review by <em>Transcultural Psychiatry </em></td>
+ </tr>
+  <tr>
+  <td>Manuscript (Application)</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Omari, M.</td>
+  <td>Metacognitive beliefs ("project 11")</td>
+  <td>Awaiting Data Collection</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Application)</td>
+  <td>Abu Khait, A., <b>Menger, A.</b></td>
+  <td>RFS moderating the relationship between alexithymia and emotional dysregulation ("project 12")</td>
+  <td>Awaiting Statistical Analysis</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Application)</td>
+  <td>Sandilos, G., <b>Menger, A.</b>, Giugliano D., Kwiatt, M., Gefen, R., Ives, E., Joneja, U., Miick, R., McClane, S.J.</td>
+  <td>Bayesian analysis of factors impacting concordance of MRI and histopathology in determining rectal tumor relationship to the anterior peritoneal reflection</td>
+  <td>Publication Under Review by <em>Diseases of the Colon & Rectum</em></td>
  </tr>
 </table>
 
