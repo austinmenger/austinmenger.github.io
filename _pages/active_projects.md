@@ -14,37 +14,37 @@ author_profile: true
 <table>
  <tr>
   <td>Project Type</td>
-  <td>Collaborators</td>
+  <td>Authors</td>
   <td>Project Title</td>
   <td>Status</td>
  </tr>
  <tr>
   <td>Textbook</td>
-  <td></td>
+  <td><b>Menger, A.</b></td>
   <td>Likelihood-based Techniques for Psychological Data</td>
   <td>Currently Drafting Proposal for Springer</td>
  </tr>
  <tr>
   <td>Manuscript (Methods)</td>
-  <td>Anusha Natarajan</td>
+  <td><b>Menger, A.</b>, Anusha Natarajan</td>
   <td>Modeling Dispersed Cure Rate Models Using Deep Neural Networks</td>
   <td>Currently Developing</td>
  </tr>
  <tr>
   <td>Manuscript (Methods)</td>
-  <td>Ming-Hui Chen, Md. Tuhin Sheikh, Shike Xu</td>
+  <td><b>Menger, A.</b>, Sheikh, T., Xu, S., Chen, M-H.</td>
   <td>A joint longitudinal biomarker and mixture overall cure rate competing risks survival model with applications to prostate cancer screening</td>
   <td>Currently Developing</td>
  </tr>
  <tr>
   <td>Manuscript (Methods)</td>
-  <td>Theodora Moldovan</td>
+  <td><b>Menger, A.</b>, Moldovan, T.</td>
   <td>A Unified Framework for Mediation Analysis</td>
   <td>Currently Developing</td>
  </tr>
  <tr>
   <td>Manuscript (Methods)</td>
-  <td>Harshita Rayapureddy</td>
+  <td>Rayapureddy, H., <b>Menger, A.</b></td>
   <td>Time-to-event model selection with applications in Ovarian cancer</td>
   <td>Project on Hold</td>
  </tr>
@@ -63,51 +63,57 @@ author_profile: true
 <table>
  <tr>
   <td>Project Type</td>
-  <td>Collaborators</td>
+  <td>Authors</td>
   <td>Project Title</td>
   <td>Status</td>
  </tr>
  <tr>
   <td>Textbook</td>
-  <td>Abdallah Abu Khait</td>
+  <td>Abu Khait, A., <b>Menger, A.</b></td>
   <td>Measurement, Reliability, Validation, and Examination of Reminiscence Functions and their Patterns for Patients with Schizophrenia</td>
   <td>Proposal Under Revision for Springer</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abdallah Abu Khait</td>
+  <td>Abu Khait, A., <b>Menger, A.</b></td>
   <td>Examining the Tripartite Model of Reminiscence Functions in a Sample of Arabic-speaking Patients with Schizophrenia: Preliminary Findings from Jordan ("schiz 4")</td>
   <td>Analysis Complete; Drafting Manuscript</td>
  </tr>
  <tr>
   <td>Abstract & Poster (Application)</td>
-  <td>Abdallah Abu Khait</td>
+  <td>Abu Khait, A., <b>Menger, A.</b> </td>
   <td>A large sample study of reminiscence functions in patients with schizophrenia: creating latent profiles of patients and understanding the role of hospital admissions on patterns of reminiscence ("schiz 4.5")</td>
   <td>Abstract Submitted to <a href="https://mhnauk.org/conference-1">30th Annual International Mental Health Nursing Research Conference</a></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Monika Doshi</td>
+  <td>Doshi, M., Fleming, P., Amico, K., Anderson, B., Heinze, J., Torrijos, M., Cotto, L., Segovia, C., Bortoletto, A., Alvarez, M., Bryant, D., Damian, A., <b>Menger, A.</b>, Schulz, A.</td>
   <td>Racialized policing in a heightened anti-immigrant era: implications for Latinx mental health</td>
-  <td>Manuscript Under Review by <em>Social Science and Medicine – Mental Health (SSM-MH)</em></td>
+  <td>Publication Under Review by <em>Social Science and Medicine – Mental Health (SSM-MH)</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Jamila Abuidhail, Abdallah Abu Khait, Marah Kamal</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Abuidhail, J., Kamal, M.</td>
   <td>Meta analysis of meta analyses for CBT on perinatal depression</td>
   <td>Analysis Complete; Drafting Manuscript</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abdallah Abu Khait, Marah Kamal, Ryan Ricciardelli, Basim Aljalabneh, Steven McClane, Mark Lazenby</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Kamal, M., Ricciardelli, R., Aljalabneh, B., McClane, S., Lazenby, M.</td>
   <td>Feasibility, Acceptability, & Prelim Effectiveness of Colostomy Support Groups @ KHCC</td>
   <td>Awaiting IRB Approval</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abdallah Abu Khait, Marah Kamal</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Marah Kamal</td>
   <td>Feasibility, Acceptability, & Preliminary Effectiveness of Reminiscence Intervention Among Patients with Schizophrenia: A Mixed Methods Study</td>
   <td>Awaiting IRB Approval</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Application)</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Dwaikat, T., Natarajan*, A., </td>
+  <td>Validation and assessment of differential item functioning of the Arabic version of the automatic thoughts questionnaire in a sample of patients with schizophrenia</td>
+  <td>Publication Under Review by <em>Transcultural Psychiatry </em></td>
  </tr>
 </table>
 
