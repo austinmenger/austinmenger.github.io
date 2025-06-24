@@ -14,37 +14,37 @@ author_profile: true
 <table>
  <tr>
   <td>Project Type</td>
-  <td style="padding-left: 2em;">Collaborators</td>
+  <td>Collaborators</td>
   <td>Project Title</td>
   <td>Status</td>
  </tr>
  <tr>
   <td>Textbook</td>
-  <td style="padding-left: 2em;">Abdallah Abu Khait</td>
+  <td>Abdallah Abu Khait</td>
   <td>Measurement, Reliability, Validation, and Examination of Reminiscence Functions and their Patterns for Patients with Schizophrenia</td>
   <td>Proposal Under Revision for Springer</td>
  </tr>
  <tr>
   <td>Manuscript (Methods)</td>
-  <td style="padding-left: 2em;">Anusha Natarajan</td>
+  <td>Anusha Natarajan</td>
   <td>Dispersed Cure Rate Models</td>
   <td>Currently Developing</td>
  </tr>
  <tr>
   <td>Manuscript (Methods)</td>
-  <td style="padding-left: 2em;">Ming-Hui Chen, Md. Tuhin Sheikh, Shike Xu</td>
+  <td>Ming-Hui Chen, Md. Tuhin Sheikh, Shike Xu</td>
   <td>A joint longitudinal biomarker and mixture overall cure rate competing risks survival model with applications to prostate cancer screening</td>
   <td>Currently Developing</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td style="padding-left: 2em;">Monika Doshi</td>
+  <td>Monika Doshi</td>
   <td>Racialized Policing & Mental Health</td>
   <td>Manuscript Under Review</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td style="padding-left: 2em;">Jamila Abuidhail, Abdallah Abu Khait, Marah Kamal</td>
+  <td>Jamila Abuidhail, Abdallah Abu Khait, Marah Kamal</td>
   <td>Meta analysis of meta analyses for CBT on perinatal depression</td>
   <td>Analysis Complete; Drafting Manuscript</td>
  </tr>
