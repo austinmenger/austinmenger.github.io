@@ -74,16 +74,16 @@ author_profile: true
   <td>Proposal Under Revision for Springer</td>
  </tr>
  <tr>
-  <td>Manuscript (Methods)</td>
-  <td>Anusha Natarajan</td>
-  <td>Dispersed Cure Rate Models</td>
-  <td>Currently Developing</td>
+  <td>Manuscript (Application)</td>
+  <td>Abdallah Abu Khait</td>
+  <td>Examining the Tripartite Model of Reminiscence Functions in a Sample of Arabic-speaking Patients with Schizophrenia: Preliminary Findings from Jordan ("schiz 4")</td>
+  <td>Analysis Complete; Drafting Manuscript</td>
  </tr>
  <tr>
-  <td>Manuscript (Methods)</td>
-  <td>Ming-Hui Chen, Md. Tuhin Sheikh, Shike Xu</td>
-  <td>A joint longitudinal biomarker and mixture overall cure rate competing risks survival model with applications to prostate cancer screening</td>
-  <td>Currently Developing</td>
+  <td>Abstract & Poster (Application)</td>
+  <td>Abdallah Abu Khait</td>
+  <td>A large sample study of reminiscence functions in patients with schizophrenia: creating latent profiles of patients and understanding the role of hospital admissions on patterns of reminiscence</td>
+  <td>Abstract Submitted to 30th Annual International Mental Health Nursing Research Conference</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
