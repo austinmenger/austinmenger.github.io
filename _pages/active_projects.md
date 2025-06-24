@@ -82,20 +82,32 @@ author_profile: true
  <tr>
   <td>Abstract & Poster (Application)</td>
   <td>Abdallah Abu Khait</td>
-  <td>A large sample study of reminiscence functions in patients with schizophrenia: creating latent profiles of patients and understanding the role of hospital admissions on patterns of reminiscence</td>
-  <td>Abstract Submitted to 30th Annual International Mental Health Nursing Research Conference</td>
+  <td>A large sample study of reminiscence functions in patients with schizophrenia: creating latent profiles of patients and understanding the role of hospital admissions on patterns of reminiscence ("schiz 4.5")</td>
+  <td>Abstract Submitted to <a href="https://mhnauk.org/conference-1">30th Annual International Mental Health Nursing Research Conference</a></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
   <td>Monika Doshi</td>
-  <td>Racialized Policing & Mental Health</td>
-  <td>Manuscript Under Review</td>
+  <td>Racialized policing in a heightened anti-immigrant era: implications for Latinx mental health</td>
+  <td>Manuscript Under Review by <em>Social Science and Medicine – Mental Health (SSM-MH)</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
   <td>Jamila Abuidhail, Abdallah Abu Khait, Marah Kamal</td>
   <td>Meta analysis of meta analyses for CBT on perinatal depression</td>
   <td>Analysis Complete; Drafting Manuscript</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Application)</td>
+  <td>Abdallah Abu Khait, Marah Kamal, Ryan Ricciardelli, Basim Aljalabneh, Steven McClane, Mark Lazenby</td>
+  <td>Feasibility, Acceptability, & Prelim Effectiveness of Colostomy Support Groups @ KHCC</td>
+  <td>Awaiting IRB Approval</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Application)</td>
+  <td>Abdallah Abu Khait, Marah Kamal</td>
+  <td>Feasibility, Acceptability, & Preliminary Effectiveness of Reminiscence Intervention Among Patients with Schizophrenia: A Mixed Methods Study</td>
+  <td>Awaiting IRB Approval</td>
  </tr>
 </table>
 
