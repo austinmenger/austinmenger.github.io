@@ -86,6 +86,12 @@ author_profile: true
   <td>Analysis Complete; Drafting Manuscript</td>
  </tr>
  <tr>
+  <td>Manuscript (Application)</td>
+  <td>Menger, J., <b>Menger, A.</b></td>
+  <td>Meta Analysis of the Effect of BMI on Cancer Toxicities in Pediatric Patients with Leukemia</td>
+  <td>Data Collection in Progress</td>
+ </tr>
+ <tr>
   <td>Abstract & Poster (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b> </td>
   <td>A large sample study of reminiscence functions in patients with schizophrenia: creating latent profiles of patients and understanding the role of hospital admissions on patterns of reminiscence ("schiz 4.5")</td>
@@ -125,13 +131,13 @@ author_profile: true
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Al-Omari, M.</td>
   <td>Metacognitive beliefs ("project 11")</td>
-  <td>Awaiting Data Collection</td>
+  <td>Data Collection in Progress</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b></td>
   <td>RFS moderating the relationship between alexithymia and emotional dysregulation ("project 12")</td>
-  <td>Awaiting Statistical Analysis</td>
+  <td>Statistical Analysis in Progress</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
