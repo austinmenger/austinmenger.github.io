@@ -20,6 +20,55 @@ author_profile: true
  </tr>
  <tr>
   <td>Textbook</td>
+  <td></td>
+  <td>Likelihood-based Techniques for Psychological Data</td>
+  <td>Currently Drafting Proposal for Springer</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Methods)</td>
+  <td>Anusha Natarajan</td>
+  <td>Modeling Dispersed Cure Rate Models Using Deep Neural Networks</td>
+  <td>Currently Developing</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Methods)</td>
+  <td>Ming-Hui Chen, Md. Tuhin Sheikh, Shike Xu</td>
+  <td>A joint longitudinal biomarker and mixture overall cure rate competing risks survival model with applications to prostate cancer screening</td>
+  <td>Currently Developing</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Methods)</td>
+  <td>Theodora Moldovan</td>
+  <td>A Unified Framework for Mediation Analysis</td>
+  <td>Currently Developing</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Methods)</td>
+  <td>Harshita Rayapureddy</td>
+  <td>Time-to-event model selection with applications in Ovarian cancer</td>
+  <td>Project on Hold</td>
+ </tr>
+ <!--
+  <tr>
+  <td>Summer 2018</td>
+  <td style="padding-left: 2em;">Elementary Concepts of Statistics (<a href="https://statistics.uconn.edu/undergraduate/courses/course/STAT/1100Q/">STAT 1100Q</a>)</td>
+ </tr> -->
+</table>
+
+
+<h2 style="margin-bottom: 0.2em;">Research - Applications</h2>
+<!-- <small style="display: block; margin-top: 0; margin-bottom: 0.2em;"><em>**Completed statistical analyses for entire dissertation or thesis</em></small> -->
+<hr style="margin-top: 0.2em;" />
+
+<table>
+ <tr>
+  <td>Project Type</td>
+  <td>Collaborators</td>
+  <td>Project Title</td>
+  <td>Status</td>
+ </tr>
+ <tr>
+  <td>Textbook</td>
   <td>Abdallah Abu Khait</td>
   <td>Measurement, Reliability, Validation, and Examination of Reminiscence Functions and their Patterns for Patients with Schizophrenia</td>
   <td>Proposal Under Revision for Springer</td>
@@ -48,17 +97,8 @@ author_profile: true
   <td>Meta analysis of meta analyses for CBT on perinatal depression</td>
   <td>Analysis Complete; Drafting Manuscript</td>
  </tr>
- <!--
-  <tr>
-  <td>Summer 2018</td>
-  <td style="padding-left: 2em;">Elementary Concepts of Statistics (<a href="https://statistics.uconn.edu/undergraduate/courses/course/STAT/1100Q/">STAT 1100Q</a>)</td>
- </tr> -->
 </table>
 
-
-<h2 style="margin-bottom: 0.2em;">Research - Applications</h2>
-<!-- <small style="display: block; margin-top: 0; margin-bottom: 0.2em;"><em>**Completed statistical analyses for entire dissertation or thesis</em></small> -->
-<hr style="margin-top: 0.2em;" />
 
 <!--
 Education
