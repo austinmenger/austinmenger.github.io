@@ -33,7 +33,7 @@ author_profile: true
  <tr>
   <td>Manuscript (Methods)</td>
   <td style="padding-left: 2em;">Ming-Hui Chen, Md. Tuhin Sheikh, Shike Xu</td>
-  <td>Joint Modeling of Longitudinal and Competing Risks Survival Data with Cure Fractions and Masked Causes]{Joint Modeling of Longitudinal and Competing Risks Survival Data with Cure Fractions and Masked Causes</td>
+  <td>A joint longitudinal biomarker and mixture overall cure rate competing risks survival model with applications to prostate cancer screening</td>
   <td>Currently Developing</td>
  </tr>
  <tr>
