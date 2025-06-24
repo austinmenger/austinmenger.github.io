@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2 style="margin-bottom: 0.2em;">Research - Methodology</h2>
+<h2 style="margin-bottom: 0.2em;">Research - Statistical Methodology</h2>
 <!-- <small style="display: block; margin-top: 0; margin-bottom: 0.2em;"><em>*Current intern/student at the time of work</em></small> -->
 <hr style="margin-top: 0.2em;" />
 
