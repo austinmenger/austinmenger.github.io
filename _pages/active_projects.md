@@ -74,6 +74,12 @@ author_profile: true
   <td>Proposal Under Revision for Springer</td>
  </tr>
  <tr>
+  <td>Textbook</td>
+  <td>Menger, R., <b>Menger, A.</b></td>
+  <td>The Role of Mental Health in Spine Surgery: A Quantitative Assessment & Practical Overview</td>
+  <td>Currently Drafting Proposal for Springer</td>
+ </tr>
+ <tr>
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b></td>
   <td>Examining the Tripartite Model of Reminiscence Functions in a Sample of Arabic-speaking Patients with Schizophrenia: Preliminary Findings from Jordan ("schiz 4")</td>
