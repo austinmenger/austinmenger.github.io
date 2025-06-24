@@ -11,18 +11,49 @@ author_profile: true
 <!-- <small style="display: block; margin-top: 0; margin-bottom: 0.2em;"><em>*Current intern/student at the time of work</em></small> -->
 <hr style="margin-top: 0.2em;" />
 
-<ul>
-  <li> One of the Most-Cited Papers, International Journal of Nursing Knowledge (Apr 2024)</li>
-  <li> 2nd Place Poster Submission Award, NESS NextGen Data Science Day (Nov 2022)</li>
-  <li> Pre-Doctoral Award, Department of Statistics, University of Connecticut (Jun 2022)</li>
-  <li> Letter of Recognition, New England Statistical Society, Establishment of NextGen Scholarship (Dec 2021)</li>
-  <li> Teaching Award, Department of Statistics, University of Connecticut (Nov 2021)</li>
-  <li> Pre-Doctoral Award, Department of Statistics, University of Connecticut (Jun 2021)</li>
-  <li> Service Award, Department of Statistics, University of Connecticut (Sep 2020)</li>
-  <li> Distinction in Teaching, University of Connecticut, One of the Top-Rated Instructors (Jan 2018)</li>
-  <li> Team of the Year, Data Analytics Team, Reed Exhibitions (Jan 2017)</li>
-  <li>Completed Honors Thesis in Statistics at Georgetown University (only student in dept.) (May 2016)</li>
-</ul>
+<table>
+ <tr>
+  <td>Project Type</td>
+  <td style="padding-left: 2em;">Collaborators</td>
+  <td>Project Title</td>
+  <td>Status</td>
+ </tr>
+ <tr>
+  <td>Textbook</td>
+  <td style="padding-left: 2em;">Abdallah Abu Khait</td>
+  <td>Measurement, Reliability, Validation, and Examination of Reminiscence Functions and their Patterns for Patients with Schizophrenia</td>
+  <td>Proposal Under Revision for Springer</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Methods)</td>
+  <td style="padding-left: 2em;">Anusha Natarajan</td>
+  <td>Dispersed Cure Rate Models</td>
+  <td>Currently Developing</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Methods)</td>
+  <td style="padding-left: 2em;">Ming-Hui Chen, Md. Tuhin Sheikh, Shike Xu</td>
+  <td>Joint Modeling of Longitudinal and Competing Risks Survival Data with Cure Fractions and Masked Causes]{Joint Modeling of Longitudinal and Competing Risks Survival Data with Cure Fractions and Masked Causes</td>
+  <td>Currently Developing</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Application)</td>
+  <td style="padding-left: 2em;">Monika Doshi</td>
+  <td>Racialized Policing & Mental Health</td>
+  <td>Manuscript Under Review</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Application)</td>
+  <td style="padding-left: 2em;">Jamila Abuidhail, Abdallah Abu Khait, Marah Kamal</td>
+  <td>Meta analysis of meta analyses for CBT on perinatal depression</td>
+  <td>Analysis Complete; Drafting Manuscript</td>
+ </tr>
+ <!--
+  <tr>
+  <td>Summer 2018</td>
+  <td style="padding-left: 2em;">Elementary Concepts of Statistics (<a href="https://statistics.uconn.edu/undergraduate/courses/course/STAT/1100Q/">STAT 1100Q</a>)</td>
+ </tr> -->
+</table>
 
 
 <h2 style="margin-bottom: 0.2em;">Research - Applications</h2>
