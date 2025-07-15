@@ -130,8 +130,8 @@ author_profile: true
   <tr>
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Al-Omari, M.</td>
-  <td>Metacognitive beliefs ("project 11")</td>
-  <td>Data Collection in Progress</td>
+  <td>The Moderating Effect of Metacognitive Beliefs and Reminiscence Functions in the Relationship Between Insight and Medication Adherence in a Sample of Patients with Schizophrenia ("project 11")</td>
+  <td>Analysis Complete; Drafting Manuscript</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
