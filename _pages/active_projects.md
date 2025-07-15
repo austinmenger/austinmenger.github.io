@@ -81,9 +81,9 @@ author_profile: true
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abu Khait, A., <b>Menger, A.</b></td>
-  <td>Examining the Tripartite Model of Reminiscence Functions in a Sample of Arabic-speaking Patients with Schizophrenia: Preliminary Findings from Jordan ("schiz 4")</td>
-  <td>Analysis Complete; Drafting Manuscript</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Smadi, M., Abdalrahim, A., Hamaideh, S.</td>
+  <td>Examining the Tripartite Model of Reminiscence Functions in a Sample of Patients Hospitalized for Schizophrenia in Jordan ("schiz 4")</td>
+  <td>Publication Under Review by <em> Journal of the American Psychiatric Nurses Association (JAPNA)</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
