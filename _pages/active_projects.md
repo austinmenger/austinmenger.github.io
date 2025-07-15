@@ -125,7 +125,7 @@ author_profile: true
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Al-Dwaikat, T., Natarajan*, A. </td>
   <td>Validation and assessment of differential item functioning of the Arabic version of the automatic thoughts questionnaire in a sample of patients with schizophrenia</td>
-  <td>Publication Under Review by <em>Transcultural Psychiatry </em></td>
+  <td>Publication Under Review by <em>Journal of Health Psychology </em></td>
  </tr>
   <tr>
   <td>Manuscript (Application)</td>
