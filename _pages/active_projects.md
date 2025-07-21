@@ -105,6 +105,12 @@ author_profile: true
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
+  <td>Doshi, M., <b>Menger, A.</b></td>
+  <td>2016 Election paper</td>
+  <td>Analysis Complete; Drafting Manuscript</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Abuidhail, J., Kamal, M.</td>
   <td>Meta analysis of meta analyses for CBT on perinatal depression</td>
   <td>Analysis Complete; Drafting Manuscript</td>
