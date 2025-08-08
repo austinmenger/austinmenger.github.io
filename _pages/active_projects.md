@@ -105,9 +105,9 @@ author_profile: true
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Doshi, M., <b>Menger, A.</b></td>
-  <td>2016 Election paper</td>
-  <td>Analysis Complete; Drafting Manuscript</td>
+  <td>Doshi, M., Heinze, J., Anderson, B., Schulz, A., Fleming, P., Torrijos, M., Cotto, L., Segovia, C., Bortoletto, A., Alvarez, M., Bryant, D., <b>Menger, A.</b>, Amico, K.</td>
+  <td>The 2016 US presidential election: a mixed methods exploration of implications for Latinx mental health</td>
+  <td>Publication Under Review by <em>Social Science and Medicine (SSM)</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
