@@ -81,6 +81,18 @@ author_profile: true
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Khawaldeh, A-H.</td>
+  <td>The Moderating Role of Reminiscence Functions on the Relationship Between Personality Traits and Aggressive Behaviors Among Patients with Schizophrenia</td>
+  <td>IRB Submission in Progress</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Application)</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Khawaldeh, A-H.</td>
+  <td>Self-Transcendence as a Moderator Between Reminiscence Functions and Symptoms of Post-Traumatic Stress Disorder in Individuals with Schizophrenia</td>
+  <td>IRB Submission in Progress</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Al-Smadi, M., Abdalrahim, A., Hamaideh, S.</td>
   <td>Examining the Tripartite Model of Reminiscence Functions in a Sample of Patients Hospitalized for Schizophrenia in Jordan ("schiz 4")</td>
   <td>Publication Under Review by <em> Archives of Psychiatric Nursing</em></td>
