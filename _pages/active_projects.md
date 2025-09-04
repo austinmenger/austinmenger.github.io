@@ -147,9 +147,9 @@ author_profile: true
  </tr>
   <tr>
   <td>Manuscript (Application)</td>
-  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Omari, M.</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Omari, M., ALhamdan, A., Dagamseh, A., Hamaideh, S.</td>
   <td>Predicting Medication Adherence in Patients with Schizophrenia: The Role of Reminiscence Functions and the Moderating Effect of Metacognitive Beliefs on the Effect of Insight on Medication Adherence ("project 11")</td>
-  <td>Analysis Complete; Drafting Manuscript</td>
+  <td>Publication Under Review by <em>Journal of the American Psychiatric Nurses Association</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
