@@ -136,8 +136,8 @@ author_profile: true
  <tr>
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Abuidhail, J., Kamal, M.</td>
-  <td>Meta analysis of meta analyses for CBT on perinatal depression</td>
-  <td>Analysis Complete; Drafting Manuscript</td>
+  <td>Effectiveness of cognitive behavioral therapy in perinatal depression: a systematic review of systematic reviews and meta-analysis of meta-analyses</td>
+  <td>Publication Under Review by <em>International Journal of Mental Health Nursing</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
