@@ -38,6 +38,18 @@ author_profile: true
  </tr>
  <tr>
   <td>Manuscript (Methods)</td>
+  <td><b>Menger, A.</b>, Lozada, D.</td>
+  <td>Assessment of deep learning methods for time-to-event data</td>
+  <td>Currently Developing</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Methods)</td>
+  <td><b>Menger, A.</b>, Natarajan, A.</td>
+  <td>A More Flexible Promotion Time Cure Rate Model</td>
+  <td>Currently Developing</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Methods)</td>
   <td><b>Menger, A.</b>, Moldovan, T.</td>
   <td>A Unified Framework for Mediation Analysis</td>
   <td>Currently Developing</td>
