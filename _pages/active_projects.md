@@ -106,7 +106,7 @@ author_profile: true
  <tr>
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Al-Smadi, M., Abdalrahim, A., Hamaideh, S.</td>
-  <td>Examining the Tripartite Model of Reminiscence Functions in a Sample of Patients Hospitalized for Schizophrenia in Jordan ("schiz 4")</td>
+  <td>Confirmation and Examination of the Tripartite Model of Reminiscence Functions in a Sample of Patients Hospitalized for Schizophrenia in Jordan ("schiz 4")</td>
   <td>Publication Under Revision for <em> Archives of Psychiatric Nursing</em></td>
  </tr>
  <tr>
