@@ -135,19 +135,19 @@ author_profile: true
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abu Khait, A., <b>Menger, A.</b>, Abuidhail, J., Kamal, M.</td>
+  <td>Abu Khait, A., Abuidhail, J., Al-Smadi, M., Ismail, S., <b>Menger, A.</b></td>
   <td>Effectiveness of cognitive behavioral therapy in perinatal depression: a systematic review of systematic reviews and meta-analysis of meta-analyses</td>
   <td>Publication Under Review by <em>International Journal of Mental Health Nursing</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abu Khait, A., <b>Menger, A.</b>, Kamal, M., Ricciardelli, R., Aljalabneh, B., McClane, S., Lazenby, M.</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Smadi, M., Ricciardelli, R., Aljalabneh, B., McClane, S., Lazenby, M.</td>
   <td>Feasibility, Acceptability, & Prelim Effectiveness of Colostomy Support Groups @ KHCC</td>
   <td>Awaiting IRB Approval</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abu Khait, A., <b>Menger, A.</b>, Kamal, M.</td>
+  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Smadi, M.</td>
   <td>Feasibility, Acceptability, & Preliminary Effectiveness of Reminiscence Intervention Among Patients with Schizophrenia: A Mixed Methods Study</td>
   <td>Awaiting IRB Approval</td>
  </tr>
