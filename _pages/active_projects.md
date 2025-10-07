@@ -105,12 +105,6 @@ author_profile: true
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Smadi, M., Abdalrahim, A., Hamaideh, S.</td>
-  <td>Confirmation and Examination of the Tripartite Model of Reminiscence Functions in a Sample of Patients Hospitalized for Schizophrenia in Jordan</td>
-  <td>Publication Under Review for <em> Archives of Psychiatric Nursing</em></td>
- </tr>
- <tr>
-  <td>Manuscript (Application)</td>
   <td>Menger, J., <b>Menger, A.</b></td>
   <td>Meta Analysis of the Effect of BMI on Cancer Toxicities in Pediatric Patients with Leukemia</td>
   <td>Data Collection in Progress</td>
