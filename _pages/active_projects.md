@@ -94,7 +94,7 @@ author_profile: true
  <tr>
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Khawaldeh, A-H.</td>
-  <td>The Moderating Role of Reminiscence Functions on the Relationship Between Personality Traits and Aggressive Behaviors Among Patients with Schizophrenia</td>
+  <td>Latent Profiles of Personality Traits Among Patients with Schizophrenia and their Relationship with Aggressive Behaviors and Reminiscence Functions</td>
   <td>IRB Submission in Progress</td>
  </tr>
  <tr>
