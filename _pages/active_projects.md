@@ -100,7 +100,7 @@ author_profile: true
  <tr>
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Khawaldeh, A-H.</td>
-  <td>Self-Transcendence as a Moderator Between Reminiscence Functions and Symptoms of Post-Traumatic Stress Disorder in Individuals with Schizophrenia</td>
+  <td>Self-Transcendence as a Moderator Between Reminiscence Functions and Symptoms of Post-Traumatic Stress Disorder in a Sample of Individuals with Schizophrenia: Adjusting for Covariates and a Monte Carlo Power Simulation</td>
   <td>IRB Submission in Progress</td>
  </tr>
  <tr>
@@ -155,7 +155,7 @@ author_profile: true
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Al-Omari, M., ALhamdan, A., Dagamseh, A., Hamaideh, S.</td>
   <td>Predicting Medication Adherence in Patients with Schizophrenia: The Role of Reminiscence Functions and the Moderating Effect of Metacognitive Beliefs on the Effect of Insight on Medication Adherence ("project 11")</td>
-  <td>Publication Under Review by <em>Journal of the American Psychiatric Nurses Association</em></td>
+  <td>Publication Under Review by <em>Issues in Mental Health Nursing</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
