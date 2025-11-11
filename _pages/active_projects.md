@@ -131,7 +131,7 @@ author_profile: true
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., Abuidhail, J., Al-Smadi, M., Ismail, S., <b>Menger, A.</b></td>
   <td>Effectiveness of cognitive behavioral therapy in perinatal depression: a systematic review of systematic reviews and meta-analysis of meta-analyses</td>
-  <td>Publication Under Review by <em>International Journal of Mental Health Nursing</em></td>
+  <td>Publication Under Review by <em>Early Intervention in Psychiatry</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
