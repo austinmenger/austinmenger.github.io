@@ -26,6 +26,12 @@ author_profile: true
  </tr>
  <tr>
   <td>Manuscript (Methods)</td>
+  <td>Xu, S., <b>Menger, A.</b>, Chen, M-H.</td>
+  <td>A Bayesian Stochastic Order-Based C-Index to Quantify the Association Between Jointly Modeled Longitudinal Biomarkers and Survival Data</td>
+  <td>Currently Developing</td>
+ </tr>
+ <tr>
+  <td>Manuscript (Methods)</td>
   <td><b>Menger, A.</b>, Anusha Natarajan</td>
   <td>Modeling Dispersed Cure Rate Models Using Deep Neural Networks</td>
   <td>Currently Developing</td>
