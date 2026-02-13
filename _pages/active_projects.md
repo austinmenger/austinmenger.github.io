@@ -148,8 +148,8 @@ author_profile: true
  <tr>
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b>, Khawaldeh, A-H., Al-Smadi, M.</td>
-  <td>Feasibility, Acceptability, & Preliminary Effectiveness of Reminiscence Intervention Among Patients with Schizophrenia: A Mixed Methods Study</td>
-  <td>Awaiting IRB Approval</td>
+  <td>A Mixed-Methods Evaluation of the Feasibility, Acceptability, and Preliminary Efficacy of a Group Reminiscence Intervention in a Sample of Inpatients with Schizophrenia</td>
+  <td>Currently Drafting</td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
