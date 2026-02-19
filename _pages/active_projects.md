@@ -157,12 +157,6 @@ author_profile: true
   <td>Validation and assessment of differential item functioning of the Arabic version of the automatic thoughts questionnaire in a sample of patients with schizophrenia</td>
   <td>Publication Under Review by <em>Current Psychology </em></td>
  </tr>
-  <tr>
-  <td>Manuscript (Application)</td>
-  <td>Abu Khait, A., <b>Menger, A.</b>, Al-Omari, M., ALhamdan, A., Dagamseh, A., Hamaideh, S.</td>
-  <td>Predicting Medication Adherence in Schizophrenia: The Role of Reminiscence Functions and the Moderating Effect of Metacognitive Beliefs on the Effect of Insight on Medication Adherence ("project 11")</td>
-  <td>Publication Under Review by <em>Issues in Mental Health Nursing</em></td>
- </tr>
  <tr>
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., <b>Menger, A.</b></td>
