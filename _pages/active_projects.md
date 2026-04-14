@@ -147,9 +147,9 @@ author_profile: true
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
-  <td>Abu Khait, A., <b>Menger, A.</b>, Khawaldeh, A-H., Al-Smadi, M.</td>
+  <td>Abu Khait, A., Al-Smadi, M., <b>Menger, A.</b>, Khawaldeh, A-H.</td>
   <td>A Mixed-Methods Evaluation of the Feasibility, Acceptability, and Preliminary Efficacy of a Group Reminiscence Intervention in a Sample of Inpatients with Schizophrenia</td>
-  <td>Currently Drafting</td>
+  <td>Publication Under Review by <em>Journal of Psychiatric and Mental Health Nursing</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
