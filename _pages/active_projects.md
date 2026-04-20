@@ -137,7 +137,7 @@ author_profile: true
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., Abuidhail, J., Al-Smadi, M., Ismail, S., <b>Menger, A.</b></td>
   <td>Effectiveness of cognitive behavioral therapy in perinatal depression: a systematic review of systematic reviews and meta-analysis of meta-analyses</td>
-  <td>Publication Under Review by <em>Early Intervention in Psychiatry</em></td>
+  <td>Publication Under Review by <em>Cognitive Therapy and Research</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
@@ -149,7 +149,7 @@ author_profile: true
   <td>Manuscript (Application)</td>
   <td>Abu Khait, A., Al-Smadi, M., <b>Menger, A.</b>, Khawaldeh, A-H.</td>
   <td>A Mixed-Methods Evaluation of the Feasibility, Acceptability, and Preliminary Efficacy of a Group Reminiscence Intervention in a Sample of Inpatients with Schizophrenia</td>
-  <td>Publication Under Review by <em>Journal of Psychiatric and Mental Health Nursing</em></td>
+  <td>Publication Under Review by <em>Journal of Clinical Nursing</em></td>
  </tr>
  <tr>
   <td>Manuscript (Application)</td>
