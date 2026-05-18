@@ -27,8 +27,8 @@ author_profile: true
  <tr>
   <td>Manuscript (Methods)</td>
   <td>Xu, S., <b>Menger, A.</b>, Chen, M-H.</td>
-  <td>A Bayesian Stochastic Order-Based C-Index to Quantify the Association Between Jointly Modeled Longitudinal Biomarkers and Survival Data</td>
-  <td>Currently Developing</td>
+  <td>A Bayesian Stochastic Order-Based C-Index to Uniformly Assess Discriminatory Ability When Jointly Modeling Longitudinal Biomarkers and Survival Data</td>
+  <td>Revision in Progress</td>
  </tr>
  <tr>
   <td>Manuscript (Methods)</td>
